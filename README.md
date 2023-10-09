@@ -18,37 +18,16 @@ Object-Oriented Programming is a programming paradigm that uses objects and clas
 
 ## Program Descriptions
 
-1a: **Complex Numbers Operations**
-   - Description: Perform addition and subtraction of complex numbers using OOP principles.
-   - [Code](1a/Complex.java)
-
-1b: **Object Composition**
-   - Description: Demonstrate object composition by creating Student, College, and Employee objects with address information.
-   - [Code](1b/Address.java)
-
-2: **Inheritance and Polymorphism**
-   - Description: Implement inheritance and polymorphism to compare cylinders based on their properties.
-   - [Code](2/Circle.java)
-
-3a: **Package and Method Overriding**
-   - Description: Use packages and demonstrate method overriding across packages.
-   - [Code](3a)
-
-3b: **Interface and Extending Interfaces**
-   - Description: Implement interfaces and extend interfaces to define eating habits and sounds of animals.
-   - [Code](3b)
-
-4: **Exception Handling**
-   - Description: Handle custom exceptions to manage account deposits and withdrawals.
-   - [Code](4)
-
-5: **Multithreading**
-   - Description: Solve the fruit market problem using multithreading.
-   - [Code](5)
-
-6: **ArrayList Operations**
-   - Description: Perform various operations on ArrayLists, including copying, reversing, and sorting.
-   - [Code](6)
+| Program | Description | Code |
+|---------|-------------|------|
+| 1a: Complex Numbers Operations | Perform addition and subtraction of complex numbers using OOP principles. | [Code](1a/Main.java) |
+| 1b: Object Composition | Demonstrate object composition by creating Student, College, and Employee objects with address information. | [Code](1b/Main.java) |
+| 2: Inheritance and Polymorphism | Implement inheritance and polymorphism to compare cylinders based on their properties. | [Code](2/Main.java) |
+| 3a: Package and Method Overriding | Use packages and demonstrate method overriding across packages. | [Code](3a) |
+| 3b: Interface and Extending Interfaces | Implement interfaces and extend interfaces to define eating habits and sounds of animals. | [Code](3b/Main.java) |
+| 4: Exception Handling | Handle custom exceptions to manage account deposits and withdrawals. | [Code](4/Main.java) |
+| 5: Multithreading | Solve the fruit market problem using multithreading. | [Code](5/Main.java) |
+| 6: ArrayList Operations | Perform various operations on ArrayLists, including copying, reversing, and sorting. | [Code](6/Main.java) |
 
 ## Usage
 
